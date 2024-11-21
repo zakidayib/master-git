@@ -1,5 +1,5 @@
-## hello git
-## hello i am adding this from new-branch
-## welcome to my git guide
+## welcome to git
+this is coming from dev-kennedy
+
 
 i am adding this from dev zak
