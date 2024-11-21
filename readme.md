@@ -1,2 +1,3 @@
-## hello git
-## hello i am adding this from new-branch
+## welcome to git
+this is coming from dev-kennedy
+
